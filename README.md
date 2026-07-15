@@ -116,6 +116,22 @@ This project demonstrates:
 * Frontend Project Structure
 * Trading Platform Simulation
 
+* # Stock Trading Platform
+
+## Project Screenshots
+
+### Login Page
+![Login](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Market View
+![Market](screenshots/market.png)
+
+### Portfolio
+![Portfolio](screenshots/portfolio.png)
+
 ## 🔮 Future Enhancements
 
 * User Authentication
